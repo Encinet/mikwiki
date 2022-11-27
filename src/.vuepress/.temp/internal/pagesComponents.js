@@ -15,12 +15,24 @@ export const pagesComponents = {
   "v-438ffe52": defineAsyncComponent(() => import(/* webpackChunkName: "v-438ffe52" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/demo/markdown.html.vue")),
   // path: /demo/page.html
   "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/demo/page.html.vue")),
+  // path: /en/
+  "v-2d0a870d": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0a870d" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/index.html.vue")),
+  // path: /en/slides.html
+  "v-367b840a": defineAsyncComponent(() => import(/* webpackChunkName: "v-367b840a" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/slides.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/guide/index.html.vue")),
-  // path: /zh/
-  "v-2d0ad528": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d0ad528" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/index.html.vue")),
-  // path: /zh/slides.html
-  "v-269ae70f": defineAsyncComponent(() => import(/* webpackChunkName: "v-269ae70f" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/slides.html.vue")),
+  // path: /en/demo/
+  "v-395cd082": defineAsyncComponent(() => import(/* webpackChunkName: "v-395cd082" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/demo/index.html.vue")),
+  // path: /en/demo/disable.html
+  "v-70eda030": defineAsyncComponent(() => import(/* webpackChunkName: "v-70eda030" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/demo/disable.html.vue")),
+  // path: /en/demo/encrypt.html
+  "v-3777b6d3": defineAsyncComponent(() => import(/* webpackChunkName: "v-3777b6d3" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/demo/encrypt.html.vue")),
+  // path: /en/demo/markdown.html
+  "v-4a2a37eb": defineAsyncComponent(() => import(/* webpackChunkName: "v-4a2a37eb" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/demo/markdown.html.vue")),
+  // path: /en/demo/page.html
+  "v-0e4acecb": defineAsyncComponent(() => import(/* webpackChunkName: "v-0e4acecb" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/demo/page.html.vue")),
+  // path: /en/guide/
+  "v-e6412400": defineAsyncComponent(() => import(/* webpackChunkName: "v-e6412400" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/guide/index.html.vue")),
   // path: /guide/bar/
   "v-5d5c2d30": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d5c2d30" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/guide/bar/index.html.vue")),
   // path: /guide/bar/baz.html
@@ -29,26 +41,14 @@ export const pagesComponents = {
   "v-5d5821d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5d5821d6" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/guide/foo/index.html.vue")),
   // path: /guide/foo/ray.html
   "v-0b6fc5f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-0b6fc5f8" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/guide/foo/ray.html.vue")),
-  // path: /zh/demo/
-  "v-2b64e284": defineAsyncComponent(() => import(/* webpackChunkName: "v-2b64e284" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/demo/index.html.vue")),
-  // path: /zh/demo/disable.html
-  "v-c1942916": defineAsyncComponent(() => import(/* webpackChunkName: "v-c1942916" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/demo/disable.html.vue")),
-  // path: /zh/demo/encrypt.html
-  "v-65c00218": defineAsyncComponent(() => import(/* webpackChunkName: "v-65c00218" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/demo/encrypt.html.vue")),
-  // path: /zh/demo/markdown.html
-  "v-36295574": defineAsyncComponent(() => import(/* webpackChunkName: "v-36295574" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/demo/markdown.html.vue")),
-  // path: /zh/demo/page.html
-  "v-62ced1a6": defineAsyncComponent(() => import(/* webpackChunkName: "v-62ced1a6" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/demo/page.html.vue")),
-  // path: /zh/guide/
-  "v-47357bdb": defineAsyncComponent(() => import(/* webpackChunkName: "v-47357bdb" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/guide/index.html.vue")),
-  // path: /zh/guide/bar/
-  "v-763c1cd7": defineAsyncComponent(() => import(/* webpackChunkName: "v-763c1cd7" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/guide/bar/index.html.vue")),
-  // path: /zh/guide/bar/baz.html
-  "v-1e317375": defineAsyncComponent(() => import(/* webpackChunkName: "v-1e317375" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/guide/bar/baz.html.vue")),
-  // path: /zh/guide/foo/
-  "v-763e2284": defineAsyncComponent(() => import(/* webpackChunkName: "v-763e2284" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/guide/foo/index.html.vue")),
-  // path: /zh/guide/foo/ray.html
-  "v-00fb7173": defineAsyncComponent(() => import(/* webpackChunkName: "v-00fb7173" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/zh/guide/foo/ray.html.vue")),
+  // path: /en/guide/bar/
+  "v-13a6747c": defineAsyncComponent(() => import(/* webpackChunkName: "v-13a6747c" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/guide/bar/index.html.vue")),
+  // path: /en/guide/bar/baz.html
+  "v-f91f53cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-f91f53cc" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/guide/bar/baz.html.vue")),
+  // path: /en/guide/foo/
+  "v-13a87a29": defineAsyncComponent(() => import(/* webpackChunkName: "v-13a87a29" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/guide/foo/index.html.vue")),
+  // path: /en/guide/foo/ray.html
+  "v-663a5418": defineAsyncComponent(() => import(/* webpackChunkName: "v-663a5418" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/en/guide/foo/ray.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"/data/data/com.termux/files/home/project/mikwiki/src/.vuepress/.temp/pages/404.html.vue")),
 }
