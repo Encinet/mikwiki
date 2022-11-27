@@ -1,7 +1,7 @@
 # MikWiki
 
 https://mikwiki.netlify.app/
-https://encinet.github.io/
+https://encinet.github.io/mikwiki/
 
 ## 命令
 
