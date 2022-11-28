@@ -7,13 +7,13 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "文档演示",
-      description: "vuepress-theme-hope 的文档演示",
+      title: "米客",
+      description: "Minecraft Java版纯净公益生存服",
     },
     "/en/": {
       lang: "en-US",
-      title: "Docs Demo",
-      description: "A docs demo for vuepress-theme-hope",
+      title: "Mik",
+      description: "Minecraft Java version of pure public welfare survival server",
     },
   },
 

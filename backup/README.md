@@ -1,17 +1,17 @@
 ---
 home: true
 icon: home
-title: Home
+title: Project home
 heroImage: /logo.svg
-heroText: Mik
-tagline: Minecraft Java version of pure public welfare survival server
+heroText: Project name
+tagline: You can place the description of the project here.
 actions:
-  - text: Guide 💡
-    link: /en/guide/
+  - text: How to Use 💡
+    link: /en/demo/
     type: primary
 
-  - text: Rules
-    link: /en/rule/
+  - text: Docs
+    link: /en/guide/
 
 features:
   - title: Markdown Enhance

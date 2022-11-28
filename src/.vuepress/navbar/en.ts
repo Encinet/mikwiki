@@ -23,8 +23,8 @@ export const enNavbar = navbar([
     ],
   },
   {
-    text: "V2 Docs",
-    icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/en/",
+    text: "QQ Group",
+    icon: "fa-brands fa-qq",
+    link: "https://jq.qq.com/?_wv=1027&k=HSSe2Rxe",
   },
 ]);
