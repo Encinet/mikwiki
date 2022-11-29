@@ -7,7 +7,7 @@ heroText: 米客
 tagline: Minecraft Java版纯净公益生存服
 actions:
   - text: 指南 💡
-    link: /guide/
+    link: /guide/join
     type: primary
 
   - text: 规则

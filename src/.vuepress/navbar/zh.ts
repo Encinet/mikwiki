@@ -22,6 +22,7 @@ export const zhNavbar = navbar([
       },
     ],
   },
+  { text: "规则", icon: "discover", link: "/rule/" },
   {
     text: "QQ群",
     icon: "fa-brands fa-qq",
