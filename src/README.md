@@ -49,5 +49,5 @@ features:
     details: 加入我们的QQ群! 你会有更多新的发现
     link: https://jq.qq.com/?_wv=1027&k=HSSe2Rxe
 copyright: false
-footer: 使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
+footer: "MIT Licensed | Copyright © 2022-present Encinet"
 ---

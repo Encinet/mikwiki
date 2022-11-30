@@ -20,6 +20,14 @@ export default hopeTheme({
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
+  themeColor: {
+    blue: "#2196f3",
+    red: "#f26d6d",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+  },
+  fullscreen: true,
+  
   locales: {
     /**
      * Chinese locale config
@@ -31,7 +39,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: false,
 
       displayFooter: true,
 
@@ -51,7 +59,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: false,
 
       displayFooter: true,
 
@@ -76,11 +84,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      // provider: "Giscus",
-      // repo: "vuepress-theme-hope/giscus-discussions",
-      // repoId: "R_kgDOG_Pt2A",
-      // category: "Announcements",
-      // categoryId: "DIC_kwDOG_Pt2M4COD69",
+      provider: "Giscus",
+      repo: "Encinet/giscus-discussions",
+      repoId: "R_kgDOIiEimQ",
+      category: "Announcements",
+      categoryId: "DIC_kwDOIiEimc4CS1oF",
 
       /**
        * Using Twikoo
@@ -91,8 +99,8 @@ export default hopeTheme({
       /**
        * Using Waline
        */
-      provider: "Waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      // provider: "Waline",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
     // Disable features you don’t want here

@@ -1,6 +1,8 @@
 ---
 title: 如何进服
 icon: fas fa-hand-pointer
+prev: false
+next: ./worlds/old
 ---
 
 ::: details 流程
