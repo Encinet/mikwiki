@@ -20,12 +20,12 @@ features:
     link: https://www.minecraft.net/
 
   - title: 向下兼容
-    icon: fa-solid fa-down
+    icon: fa-solid fa-down-left-and-up-right-to-center
     details: 带不动最新版本？我们支持1.16.5及以上版本进服
     link: https://github.com/ViaVersion/ViaVersion
 
   - title: 离线模式
-    icon: fa-solid fa-lightbulb-slash
+    icon: fa-solid fa-network-wired
     details: 没有Minecraft正版也可以一起游玩
     link: https://www.minecraft.net/
 
