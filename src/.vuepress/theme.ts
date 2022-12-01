@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://github.com/encinet",
   },
 
-  iconAssets: "fontawesome",
+  iconAssets: "//cdn.bootcdn.net/ajax/libs/font-awesome/6.2.1/css/all.min.css",
 
   logo: "/logo.svg",
 

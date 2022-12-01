@@ -7,7 +7,7 @@ export const zhSidebar = sidebar({
       icon: "discover",
       text: "指南",
       prefix: "guide/",
-      link: "guide/",
+      link: "guide/join",
       children: [
           "join",
           {
