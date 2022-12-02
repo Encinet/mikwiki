@@ -2,7 +2,7 @@
 title: 如何进服
 icon: fas fa-hand-pointer
 prev: false
-next: ./worlds/old
+next: command
 ---
 
 ::: details 流程

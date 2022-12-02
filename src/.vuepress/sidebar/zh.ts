@@ -2,12 +2,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
   "/": [
-    {
-      icon: "fa-solid fa-house",
-      text: "首页",
-      prefix: "/",
-      link: "/",
-    },
+    "/",
     {
       icon: "fa-solid fa-book",
       text: "指南",
@@ -15,6 +10,7 @@ export const zhSidebar = sidebar({
       link: "guide/join",
       children: [
           "join",
+          "command",
           {
             icon: "fa-solid fa-earth-americas",
             text: "世界",
@@ -23,6 +19,7 @@ export const zhSidebar = sidebar({
           },
         ],
     },
-    "rule",
+    "rule/",
+    "manager",
   ],
 });

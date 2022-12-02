@@ -1,6 +1,6 @@
 ---
 home: true
-icon: home
+icon: fa-solid fa-house
 title: 首页
 heroImage: /logo.svg
 heroText: 米客
