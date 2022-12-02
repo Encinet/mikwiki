@@ -1,7 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default hopeTheme({
   hostname: "https://mikwiki.netlify.app",
@@ -80,16 +79,6 @@ export default hopeTheme({
   },
 
   plugins: {
-    searchProPlugin: {
-      // 配置选项
-      indexContent: true,
-      locales: {
-        "/": {
-          placeholder: "搜索",
-        },
-      },
-    },
-    
     // If you don’t need comment feature, you can remove following option
     // The following config is for demo ONLY, if you need comment feature, please generate and use your own config, see comment plugin documentation for details.
     // To avoid disturbing the theme developer and consuming his resources, please DO NOT use the following config directly in your production environment!!!!!
