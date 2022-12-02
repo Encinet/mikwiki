@@ -99,10 +99,7 @@ next: ./worlds/old
 
 #### **/edithome <家名> [rename/description/relocate/privacy] [args]**
 
-::: warning 注意
-
-此命令的功能建议改用/homes命令实现
-
+::: warning 此命令的功能建议改用/homes命令实现
 :::
 
 编辑指定的家

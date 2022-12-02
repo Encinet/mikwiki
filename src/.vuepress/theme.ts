@@ -11,12 +11,14 @@ export default hopeTheme({
   },
 
   iconAssets: "//cdn.bootcdn.net/ajax/libs/font-awesome/6.2.1/css/all.min.css",
-
+  
   logo: "/logo.svg",
 
-  repo: "encinet/mikwiki",
+  repo: false,
+  
+  docsRepo: "encinet/mikwiki",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "src",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
