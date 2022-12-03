@@ -2,7 +2,7 @@
 title: 命令
 icon: fa-solid fa-terminal
 prev: join
-next: ./worlds/old
+next: ./feature/skin
 ---
 
 ::: tip 说明
@@ -189,3 +189,5 @@ next: ./worlds/old
 #### **/skin**
 
 皮肤主命令(支持使用正版玩家皮肤, 自定义url皮肤链接)
+
+- 查看详情 [皮肤](./feature/skin)

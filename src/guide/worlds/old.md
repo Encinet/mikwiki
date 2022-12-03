@@ -1,5 +1,5 @@
 ---
 title: 主世界(旧世界)
-prev: ../join
+prev: ../feature/skin
 next: new
 ---

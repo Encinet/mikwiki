@@ -12,6 +12,12 @@ export const zhSidebar = sidebar({
           "join",
           "command",
           {
+            icon: "fa-solid fa-lightbulb",
+            text: "特色",
+            prefix: "feature/",
+            children: "structure",
+          },
+          {
             icon: "fa-solid fa-earth-americas",
             text: "世界",
             prefix: "worlds/",
