@@ -1,6 +1,6 @@
 ---
 title: 皮肤
-prev: ../command
+prev: color
 next: ../worlds/old
 ---
 
