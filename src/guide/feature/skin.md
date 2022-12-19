@@ -1,6 +1,6 @@
 ---
 title: 皮肤
-prev: color
+prev: lock
 next: ../worlds/old
 ---
 

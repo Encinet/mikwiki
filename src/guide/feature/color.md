@@ -1,7 +1,7 @@
 ---
 title: 颜色
 prev: chat
-next: skin
+next: lock
 ---
 
 目前已支持使用位置: `聊天` `告示牌` `铁砧` `书`

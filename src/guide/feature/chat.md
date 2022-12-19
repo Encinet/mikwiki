@@ -1,6 +1,6 @@
 ---
 title: 聊天
-prev: ../command
+prev: afk
 next: color
 ---
 
