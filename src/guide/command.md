@@ -176,6 +176,9 @@ next: ./feature/skin
 
 #### **/mik**
 
+::: tip 也可以使用<kbd>Ctrl</kbd>+<kbd>F</kbd>快捷键打开
+:::
+
 打开服务器菜单
 
 #### **/watch**
