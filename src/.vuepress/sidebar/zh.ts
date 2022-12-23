@@ -11,6 +11,7 @@ export const zhSidebar = sidebar({
       children: [
           "join",
           "command",
+          "robot",
           {
             icon: "fa-solid fa-lightbulb",
             text: "特色",
