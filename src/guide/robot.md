@@ -2,10 +2,10 @@
 title: 机器人
 icon: fas fa-robot
 prev: command
-next: ./feature/skin
+next: enderdragon
 ---
 
-::: warm 停止
+::: warning 此项失效
 
 机器人暂时关闭
 

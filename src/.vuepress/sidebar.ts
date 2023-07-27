@@ -1,6 +1,6 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export const zhSidebar = sidebar({
+export default sidebar({
   "/": [
     "/",
     {
@@ -12,21 +12,17 @@ export const zhSidebar = sidebar({
           "join",
           "command",
           "robot",
+          "crafting",
+          "enderdragon",
           {
             icon: "fa-solid fa-lightbulb",
             text: "特色",
             prefix: "feature/",
             children: "structure",
           },
-          {
-            icon: "fa-solid fa-earth-americas",
-            text: "世界",
-            prefix: "worlds/",
-            children: "structure",
-          },
+          "worlds",
         ],
     },
     "rule/",
-    "manager",
   ],
 });

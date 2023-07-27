@@ -1,8 +1,14 @@
 ---
 title: 皮肤
 prev: lock
-next: ../worlds/old
+next: ../enderdragon
 ---
+
+::: tip 提示
+
+实在不会可以寻求管理帮助哦
+
+:::
 
 #### **/skin <正版ID>**
 
@@ -35,3 +41,5 @@ next: ../worlds/old
 #### **/skins**
 
 打开皮肤选择菜单，看看服里其他人用了什么皮肤吧
+
+你可以快捷把你的皮肤设置得和别人一样!
