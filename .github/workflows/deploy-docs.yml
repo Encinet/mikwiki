@@ -2,6 +2,7 @@
 name: 部署文档
 
 on:
+  workflow_dispatch:
   push:
     branches:
       # 确保这是你正在使用的分支名称
@@ -9,6 +10,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy-gh-pages:
@@ -18,12 +21,18 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          # 如果你文档需要 Git 子模块，取消注释下一行
-          # submodules: true
+          submodules: true
 
+
+      - name: Github Page适配
+        run: |-
+          sed -i 's/base: \"\/\",/base: \"\/mikwiki\/\",/g' src/.vuepress/config.ts
+
+          
       - name: 安装 pnpm
         uses: pnpm/action-setup@v2
         with:
+          version: 8
           run_install: true
 
 
