@@ -1,0 +1,13 @@
+{
+  "name": "vuepress-plugin-minecraft-status",
+  "version": "1.0.0",
+  "description": "A widget to get minecraft server status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vuepress-plugin"],
+  "author": "ObcbO",
+  "homepage": "https://github.com/obcbo",
+  "license": "ISC"
+}

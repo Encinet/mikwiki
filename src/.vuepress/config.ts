@@ -21,5 +21,8 @@ export default defineUserConfig({
       // 索引全部内容
       indexContent: true,
     }),
+    'vuepress-plugin-minecraft-status', {
+      showButton: true // 开启插件
+    }
   ],
 });
