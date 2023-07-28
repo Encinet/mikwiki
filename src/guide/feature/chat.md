@@ -1,7 +1,7 @@
 ---
 title: 聊天
-prev: catch
-next: color
+prev: afk
+next: skin
 ---
 
 ## 互通

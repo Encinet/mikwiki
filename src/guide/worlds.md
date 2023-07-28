@@ -4,7 +4,7 @@ icon: fa-solid fa-earth-americas
 prev: ./feature/color
 ---
 
-**均死亡掉落**
+**所有世界均死亡掉落**
 
 | 世界名 | 中心点 | 半径 | 备注 |
 | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: 挂机(AFK)
-prev: ../command
+prev: catch
 next: chat
 ---
 

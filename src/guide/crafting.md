@@ -5,6 +5,12 @@ prev: command
 next: enderdragon
 ---
 
+::: tip 提示
+
+如果还有更好的建议，请联系管理
+
+:::
+
 ### 鞘翅
 
 | 物品| 成品 | [合成](https://wiki.biligame.com/mc/%E5%90%88%E6%88%90)配方 |

@@ -1,7 +1,7 @@
 ---
 title: 皮肤
-prev: lock
-next: ../enderdragon
+prev: chat
+next: lock
 ---
 
 ::: tip 提示
@@ -9,6 +9,10 @@ next: ../enderdragon
 实在不会可以寻求管理帮助哦
 
 :::
+
+为了使离线玩家(即非正版登录玩家)在服务器内也能显示自己独特的皮肤，本服加入了皮肤系统
+
+## 命令
 
 #### **/skin <正版ID>**
 

@@ -2,7 +2,7 @@
 title: 机器人
 icon: fas fa-robot
 prev: command
-next: enderdragon
+next: crafting
 ---
 
 ::: warning 此项失效

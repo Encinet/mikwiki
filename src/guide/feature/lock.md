@@ -1,7 +1,7 @@
 ---
 title: 锁
-prev: color
-next: skin
+prev: skin
+next: color
 ---
 
 # 如何使用

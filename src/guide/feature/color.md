@@ -1,7 +1,7 @@
 ---
 title: 颜色
-prev: chat
-next: lock
+prev: lock
+next: ../worlds
 ---
 
 目前已支持使用位置: `聊天` `告示牌` `铁砧` `书`
@@ -277,13 +277,13 @@ next: lock
 >
 > 示例: &#FFAA00 (这个相当于&6)
 
-## 渐变色
+## 渐变色 [此部分在前缀后缀中不可用]
 
 > 格式: `<g(or 'gradient')#<speed(ignorable)>:<hex range>>test<loop(or 'l')>`
 >
 > 示例: `<g#2:#ffffff:#bbbbbb:#cccccc:#777777>text<l> and <g:#ffffff:#bbbbbb>text`
 
-## 彩虹色
+## 彩虹色 [此部分在前缀后缀中不可用]
 
 > 格式: `<r(or 'rainbow')#<speed(ignorable)>:<saturation(ignorable)>:<brightness(ignorable)>>test<loop(or 'l')>`
 >

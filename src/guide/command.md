@@ -2,7 +2,7 @@
 title: 命令
 icon: fa-solid fa-terminal
 prev: join
-next: ./feature/skin
+next: robot
 ---
 
 ::: tip 说明
@@ -138,7 +138,7 @@ next: ./feature/skin
 
 坐在当前方块上
 
-(当你/playertoggle开启时, 楼梯和半砖和地毯可以直接右键坐下)
+当你/playertoggle开启时(默认开启), 楼梯和半砖和地毯可以直接右键坐下
 
 #### **/lay**
 
@@ -194,7 +194,7 @@ next: ./feature/skin
 
 放入的东西无人取走的话，10分钟后就会消失
 
-#### **/mik**
+#### **/mik** _Recommended_
 
 ::: tip 也可以使用<kbd>Shift</kbd>+<kbd>F</kbd>快捷键打开
 :::

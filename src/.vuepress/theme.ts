@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mikwiki.netlify.app",
+  hostname: "https://mik.wuki.moe",
 
   author: {
     name: "Encinet",
@@ -28,7 +28,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "MIT Licensed | Copyright © 2022-present Encinet",
+  footer: 'MIT Licensed | Copyright © 2022-present <a href="https://encinet.netlify.app/">Encinet</a>',
 
   displayFooter: true,
 
