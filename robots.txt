@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://mikwiki.netlify.app/mikwiki/sitemap.xml
+Sitemap: https://mik.wuki.moe/mikwiki/sitemap.xml
